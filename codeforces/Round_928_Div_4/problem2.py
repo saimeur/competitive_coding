@@ -14,5 +14,3 @@ for t1 in range(t):
                 break
         if (end-start+1)%2 ==0:
             print("SQUARE")
-        else:
-            
